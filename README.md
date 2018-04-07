@@ -26,7 +26,7 @@ What we want to calculate is:
 
 ![alt text](imgs/dataflow.png)
 
-#### The Map*
+#### The Map
 
 `map_data.txt` includes the position of landmarks (in meters) on an arbitrary Cartesian coordinate system. Each row has three columns
 1. x position
